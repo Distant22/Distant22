@@ -1,5 +1,8 @@
-### Dt22. Economics / Digital Content and Technology
-Dreaming of becoming and fullstack developer / Researcher at HCI
+## 🦜 Dt22. 
+### Economics / Digital Content and Technology
+Dreaming of becoming and fullstack developer / Researcher at HCI.
+
+
 
 ## 🧠 That I know and use
 ### 📚 Langues / Frameworks
