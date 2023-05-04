@@ -2,7 +2,7 @@
 ### Economics / Digital Content and Technology
 Dreaming of becoming and fullstack developer / Researcher at HCI.
 
-<img src="https://user-images.githubusercontent.com/82443036/236146009-4430d1d6-602e-490d-ad7e-4810c5519971.JPG" width="300" height="250">
+<img src="https://user-images.githubusercontent.com/82443036/236146009-4430d1d6-602e-490d-ad7e-4810c5519971.JPG" width="350" height="250">
 
 ## 🧠 That I know and use
 ### 📚 Langues / Frameworks
