@@ -1,4 +1,27 @@
-### Hi there 👋
+### Dt22. Economics / Digital Content and Technology
+Dreaming of becoming and fullstack developer / Researcher at HCI
+
+## 🧠 That I know and use
+### 📚 Langues / Frameworks
+- React.js / Vue.js
+- Tailwind / Bootstrap
+- Express.js
+- Python
+- Java
+- Unity
+
+
+## 💡 Projects
+- [AI-image Generated Site](https://github.com/Distant22/AI-generate-site)
+- [Citizen Media](https://github.com/CitizenMedia-TW/citizen-media)
+- [Foodie LineBot](https://github.com/Distant22/FoodieLineBot)
+- [I need you - a medical helper](https://gitlab.com/nccu_se/7plus1/I_need_you)
+
+
+## 🔗 Get in touch
+- LinkedIn: https://www.linkedin.com/in/%E8%A1%8C%E9%81%A0-%E7%8E%8B-79567b227/
+- Instagram: https://www.instagram.com/distant.22/
+
 
 <!--
 **Distant22/Distant22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
