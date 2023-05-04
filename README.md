@@ -2,7 +2,7 @@
 ### Economics / Digital Content and Technology
 Dreaming of becoming and fullstack developer / Researcher at HCI.
 
-
+<img width="50px" src="https://raw.githubusercontent.com/distant22/distant22/basic/resources/main.png" />
 
 ## 🧠 That I know and use
 ### 📚 Langues / Frameworks
