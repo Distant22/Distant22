@@ -13,7 +13,7 @@ Dreaming of becoming and fullstack developer / Researcher at HCI.
 - Unity
 
 
-## 🔮 Projects
+## Projects
 - [AI-image Generated Site](https://github.com/Distant22/AI-generate-site)
 - [Citizen Media](https://github.com/CitizenMedia-TW/citizen-media)
 - [Foodie LineBot](https://github.com/Distant22/FoodieLineBot)
@@ -21,7 +21,7 @@ Dreaming of becoming and fullstack developer / Researcher at HCI.
 
 
 
-## 🎩 Social Media
+## Social Media
 - LinkedIn: https://www.linkedin.com/in/%E8%A1%8C%E9%81%A0-%E7%8E%8B-79567b227/
 - Instagram: https://www.instagram.com/distant.22/
 
