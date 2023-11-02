@@ -25,6 +25,7 @@ Dreaming of becoming and fullstack developer / Researcher at HCI.
 - LinkedIn: https://www.linkedin.com/in/%E8%A1%8C%E9%81%A0-%E7%8E%8B-79567b227/
 - Instagram: https://www.instagram.com/distant.22/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=distant22)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Distant22/Distant22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
