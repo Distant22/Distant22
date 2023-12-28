@@ -4,13 +4,18 @@
  - Backend developer at ACCUHit ( 2023.09 ~ )
  - Former Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
 
-### ⚔ Languages / Frameworks
-- Next.js / Vue.js / Tailwindcss
-- Express.js
-- Python / FastAPI
-- Docker / AWS
-- AzureBot / LineBot
+### ⚔ Languages ｜ Frameworks
+#### Frontend
+- Next.js ｜ Vue.js ｜ Tailwindcss
+#### Backend
+- Express.js ｜ FastAPI
+- AzureBot ｜ LineBot Setup
+- OpenAI | Langchain
+- Docker ｜ AWS ｜ Redis ｜ MongoDB ｜ MySQL
+#### Other Skill
+- Adobe Illustrator ｜ After Effects
 - Unity
+- p5.js
 
 
 ## Projects
