@@ -4,11 +4,11 @@ Dreaming of becoming and fullstack developer / Researcher at HCI.
 
 
 ### ⚔ Languages / Frameworks
-- React.js / Vue.js
-- Tailwind / Bootstrap
+- Next.js / Vue.js / Tailwindcss
 - Express.js
-- Python
-- Java
+- Python / FastAPI
+- Docker / AWS
+- AzureBot / LineBot
 - Unity
 
 
