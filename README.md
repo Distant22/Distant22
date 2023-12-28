@@ -1,9 +1,8 @@
 ## 🦜 Dt22. 
-### Economics / Digital Content and Technology
-Backend developer at ACCUHit (2023.09~)
-Former Appworks School Backend Campus Program (2023.06~2023.08)
-Dreaming of becoming and fullstack developer.
-
+### Economics ｜ Digital Content and Technology
+#### Dreaming of becoming and fullstack developer.
+ - Backend developer at ACCUHit ( 2023.09 ~ )
+ - Former Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
 
 ### ⚔ Languages / Frameworks
 - Next.js / Vue.js / Tailwindcss
