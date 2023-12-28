@@ -10,7 +10,7 @@
 #### Backend
 - Express.js ｜ FastAPI
 - AzureBot ｜ LineBot Setup
-- OpenAI | Langchain
+- OpenAI ｜ Langchain
 - Docker ｜ AWS ｜ Redis ｜ MongoDB ｜ MySQL
 #### Other Skill
 - Adobe Illustrator ｜ After Effects
