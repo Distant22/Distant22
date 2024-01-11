@@ -1,8 +1,8 @@
 ## 🦜 Dt22. 
-### Economics ｜ Digital Content and Technology
-#### Dreaming of becoming and fullstack developer.
+#### Dreaming of becoming a fullstack developer.
  - Backend developer at ACCUHit ( 2023.09 ~ )
  - Former Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
+ - Senior in National Chengchi University ( Double Major in Economics |  Digital Content and Technology )
 
 ### ⚔ Languages ｜ Frameworks
 #### Frontend
