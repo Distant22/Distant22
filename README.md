@@ -1,11 +1,11 @@
 ## 🦜 Dt22. 
-### Introduction
+## Introduction
 #### Dreaming of becoming a fullstack developer.
  - Backend developer at ACCUHit ( 2023.09 ~ )
  - Former Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
- - Senior in National Chengchi University ( Double Major in Economics |  Digital Content and Technology )
+ - Senior in National Chengchi University ( B.S in Economics |  Digital Content and Technology )
 
-### ⚔ Languages ｜ Frameworks
+## ⚔ Languages ｜ Frameworks
 #### Frontend
 - Next.js ｜ Vue.js ｜ Tailwindcss
 #### Backend
