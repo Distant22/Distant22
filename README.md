@@ -1,20 +1,22 @@
 ## 🦜 Dt22. 
 ## Introduction
-#### Dreaming of becoming a fullstack developer.
+#### Dreaming of becoming a backend developer.
  - Backend developer intern at ACCUHit ( 2023.09 ~ 2021.01 )
- - Former Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
+ - Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
+ - Core Team Member & Developer in NCCU Google Developer Student Club ( 2022.10 ~ 2023.06 )
  - Senior in National Chengchi University ( B.S in Economics |  Digital Content and Technology )
 
 ## ⚔ Languages ｜ Frameworks
 #### Frontend
 - Next.js ｜ Vue.js ｜ Tailwindcss
 #### Backend
-- Express.js ｜ FastAPI
-- AzureBot ｜ LineBot Setup
+- Express.js ｜ FastAPI | Elysia
+- AzureBot ｜ LineBot 
 - OpenAI ｜ Langchain
 - Docker ｜ AWS ｜ Redis ｜ MongoDB ｜ MySQL
+- Grafana | Prometheus | K6 | Jest
 #### Other Skill
-- Adobe Illustrator ｜ After Effects
+- Adobe Illustrator ｜ After Effects | Premiere Pro
 - Unity
 - p5.js
 
