@@ -14,7 +14,7 @@
 - AzureBot ｜ LineBot 
 - OpenAI ｜ Langchain
 - Docker ｜ AWS ｜ Redis ｜ MongoDB ｜ MySQL
-- Grafana | Prometheus | K6 | Jest
+- Grafana ｜ Prometheus ｜ K6 ｜ Jest
 #### Other Skill
 - Adobe Illustrator ｜ After Effects | Premiere Pro
 - Unity
