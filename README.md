@@ -23,7 +23,7 @@
 ## Projects
 - [AI-image Generated Site](https://github.com/Distant22/AI-generate-site)
 - [Citizen Media](https://github.com/CitizenMedia-TW/citizen-media)
-- [Foodie LineBot](https://github.com/Distant22/FoodieLineBot)
+- [WeShare](https://github.com/Distant22/WeShare.git)
 - [EduStream](https://github.com/tsaichiehhuang/EduStream_OnlineLearningPlatform)
 
 
