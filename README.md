@@ -1,6 +1,5 @@
 ## 🦜 Dt22. 
 ## Introduction
-#### Dreaming of becoming a backend developer.
  - Backend developer intern at ACCUHit ( 2023.09 ~ 2021.01 )
  - Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
  - Core Team Member & Developer in NCCU Google Developer Student Club ( 2022.10 ~ 2023.06 )
