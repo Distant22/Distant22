@@ -3,13 +3,13 @@
  - Backend developer intern at ACCUHit ( 2023.09 ~ 2024.01 )
  - Appworks School Backend Campus Program ( 2023.06 ~ 2023.08 )
  - Core Team Member & Developer in NCCU Google Developer Student Club ( 2022.10 ~ 2023.06 )
- - Senior in National Chengchi University ( B.S in Economics |  Digital Content and Technology )
+ - Senior in National Chengchi University ( B.S in Economics ｜ Digital Content and Technology )
 
 ## ⚔ Languages ｜ Frameworks
 #### Frontend
 - Next.js ｜ Vue.js ｜ Tailwindcss
 #### Backend
-- Express.js ｜ FastAPI | Elysia
+- Express.js ｜ FastAPI ｜ Elysia
 - AzureBot ｜ LineBot 
 - OpenAI ｜ Langchain
 - Docker ｜ AWS ｜ Redis ｜ MongoDB ｜ MySQL
