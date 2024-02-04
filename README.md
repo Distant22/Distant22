@@ -24,7 +24,7 @@
 - [AI-image Generated Site](https://github.com/Distant22/AI-generate-site)
 - [Citizen Media](https://github.com/CitizenMedia-TW/citizen-media)
 - [Foodie LineBot](https://github.com/Distant22/FoodieLineBot)
-- [I need you - a medical helper](https://gitlab.com/nccu_se/7plus1/I_need_you)
+- [EduStream](https://github.com/tsaichiehhuang/EduStream_OnlineLearningPlatform)
 
 
 
