@@ -14,7 +14,7 @@ I'm a developer who bridges the gap between economics and technology. Currently 
 
 ## 💼 Professional Journey
 
-**Fullstack Developer** • Cerana Studio • 2025.06 - Present
+**Fullstack Developer** • Cerana Studio • `2025.06 - Present`
 Building end-to-end web solutions and driving product development
 
 **Backend Developer Intern** • *ACCUHit* • `2023.09 - 2024.01`  
