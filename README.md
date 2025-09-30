@@ -33,7 +33,7 @@ Led technical initiatives and mentored fellow developers in the community
 **M.S. Computer Science** • *National Taiwan University* • `Current`
 
 **B.S. Economics** • *National Chengchi University* • `Graduated`  
-*Minor: Digital Content and Technology*
+*Double Major: Digital Content and Technology*
 
 ---
 
