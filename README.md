@@ -14,10 +14,10 @@ I'm a developer who bridges the gap between economics and technology. Currently 
 
 ## 💼 Professional Journey
 
-**Frontend Developer Intern** • Microsoft • `2026.05 - Present`
+**Frontend Developer Intern** • *Microsoft* • `2026.05 - Present`
 Building end-to-end web solutions and driving product development
 
-**Fullstack Developer** • Cerana Studio • `2025.05 - 2025.09`
+**Fullstack Developer** • *Cerana Studio* • `2025.05 - 2025.09`
 Building end-to-end web solutions and driving product development
 
 **Backend Developer Intern** • *ACCUHit* • `2023.09 - 2024.01`  
