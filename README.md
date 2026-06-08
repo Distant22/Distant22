@@ -1,102 +1,103 @@
-## 🦜 Hey there, I'm Dt22!
 
-**Full-Stack Developer** passionate about building scalable solutions and exploring AI innovations
+## 🦜 Dt22
 
----
-
-## 🚀 About Me
-
-I'm a developer who bridges the gap between economics and technology. Currently pursuing my Master's in Computer Science at NTU, I love crafting efficient backend systems and bringing ideas to life through code.
-
-**Current Focus:** Building AI-powered applications and scalable web services
+Full-Stack Developer focused on building scalable systems and practical AI-driven products
 
 ---
 
-## 💼 Professional Journey
+## 🚀 About
 
-**Frontend Developer Intern** • *Microsoft* • `2026.05 - Present`
-Building end-to-end web solutions and driving product development
+I’m a developer with a background in economics and a strong focus on software engineering. Currently pursuing a Master’s in Computer Science at National Taiwan University, I specialize in designing backend systems and delivering reliable, production-ready applications.
 
-**Fullstack Developer** • *Cerana Studio* • `2025.05 - 2025.09`
-Building end-to-end web solutions and driving product development
+My work centers on translating ideas into performant systems — from API design to deployment — with an increasing emphasis on AI-integrated solutions.
 
-**Backend Developer Intern** • *ACCUHit* • `2023.09 - 2024.01`  
-Developed and optimized backend services, focusing on performance and reliability
+---
 
-**AppWorks School** • *Backend Campus Program* • `2023.06 - 2023.08`  
-Intensive full-stack development bootcamp with hands-on project experience
+## 💼 Experience
+
+**Frontend Developer Intern** • *Microsoft*  
+`May 2026 – Present`
+
+**Full-Stack Developer** • *Cerana Studio*  
+`May 2025 – September 2025`  
+- Developed and shipped end-to-end web applications  
+- Contributed to product iteration and system design
+
+**Backend Developer Intern** • *ACCUHit*  
+`September 2023 – January 2024`  
+- Designed and optimized backend services with a focus on performance and reliability  
+- Improved system efficiency through targeted optimizations
+
+**Backend Campus Program** • *AppWorks School*  
+`June 2023 – August 2023`  
+- Completed intensive training in full-stack development  
+- Built production-style applications in a team-based environment
 
 ---
 
 ## 🎓 Education
 
-**M.S. Computer Science** • *National Taiwan University* • `Current`
+**M.S. in Computer Science**  
+National Taiwan University *(In Progress)*
 
-**B.S. Economics** • *National Chengchi University* • `Graduated`  
-*Double Major: Digital Content and Technology*
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-```
-Next.js • Vue.js • TailwindCSS
-```
-
-### Backend & Infrastructure
-```
-Node.js (Express) • Python (FastAPI) • Bun (Elysia)
-Docker • AWS • Redis • MongoDB • MySQL
-```
-
-### AI & Automation
-```
-OpenAI API • LangChain • Azure Bot Framework • LINE Bot SDK
-```
-
-### Monitoring & Testing
-```
-Grafana • Prometheus • K6 • Jest
-```
-
-### Creative Tools
-```
-Adobe Creative Suite (AI, AE, Pr) • Unity • p5.js
-```
+**B.S. in Economics**  
+National Chengchi University  
+Double Major in Digital Content and Technology
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Technical Skills
 
-### [🎨 AI Image Generator](https://github.com/Distant22/AI-generate-site)
-AI-powered image generation platform with modern web interface
+**Frontend**  
+Next.js · Vue.js · TailwindCSS  
 
-### [📰 Citizen Media](https://github.com/CitizenMedia-TW/citizen-media)
-Community-driven media platform fostering civic engagement
+**Backend & Infrastructure**  
+Node.js (Express) · Python (FastAPI) · Bun (Elysia)  
+Docker · AWS · Redis · MongoDB · MySQL  
 
-### [🤝 WeShare](https://github.com/Distant22/WeShare.git)
-Social sharing platform with real-time features
+**AI / Integrations**  
+OpenAI API · LangChain · Azure Bot Framework · LINE Bot SDK  
 
-### [🎓 EduStream](https://github.com/tsaichiehhuang/EduStream_OnlineLearningPlatform)
-Comprehensive online learning management system
+**Monitoring & Testing**  
+Grafana · Prometheus · K6 · Jest  
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=distant22&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+**Additional Tools**  
+Adobe Creative Suite · Unity · p5.js  
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%E8%A1%8C%E9%81%A0-%E7%8E%8B-79567b227/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/distant.22/)
+**StyleGaussian3D**  
+https://github.com/Distant22/StyleGaussian3D  
+- Built a pipeline based on MAtCha-Gaussian (CVPR 2025)  
+- Reconstructs 3D scenes and extracts meshes from 2D inputs  
+
+**Minition**  
+https://github.com/Distant22/Minition  
+- Designed and implemented a lightweight, Notion-inspired note application  
+- Focused on simplicity, performance, and usability  
 
 ---
 
-*Always excited to collaborate on interesting projects and discuss new technologies!* ✨
+## 📊 GitHub
+
+https://github-readme-stats.vercel.app/api?username=distant22&show_icons=true&theme=dark&hide_border=true
+
+---
+
+## 🤝 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/%E8%A1%8C%E9%81%A0-%E7%8E%8B-79567b227/
+
+Instagram  
+https://www.instagram.com/distant.22/
+
+---
+
+Open to collaboration and opportunities involving backend systems, scalable architecture, and AI applications.
+
 <!--
 **Distant22/Distant22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
