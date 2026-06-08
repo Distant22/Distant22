@@ -68,13 +68,14 @@ Adobe Creative Suite · Unity · p5.js
 
 ## 🎯 Selected Projects
 
-**StyleGaussian3D**  
-https://github.com/Distant22/StyleGaussian3D  
+[**PaperX**](https://github.com/Distant22/PaperX)
+- AI agent that searches arXiv, embeds PDFs, and turns papers into Medium-style annotated notes.
+
+[**StyleGaussian3D**](https://github.com/Distant22/StyleGaussian3D)
 - Built a pipeline based on MAtCha-Gaussian (CVPR 2025)  
 - Reconstructs 3D scenes and extracts meshes from 2D inputs  
 
-**Minition**  
-https://github.com/Distant22/Minition  
+[**Minition**](https://github.com/Distant22/Minition)
 - Designed and implemented a lightweight, Notion-inspired note application  
 - Focused on simplicity, performance, and usability  
 
