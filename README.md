@@ -14,7 +14,10 @@ I'm a developer who bridges the gap between economics and technology. Currently 
 
 ## 💼 Professional Journey
 
-**Fullstack Developer** • Cerana Studio • `2025.06 - Present`
+**Frontend Developer Intern** • Microsoft • `2026.05 - Present`
+Building end-to-end web solutions and driving product development
+
+**Fullstack Developer** • Cerana Studio • `2025.05 - 2025.09`
 Building end-to-end web solutions and driving product development
 
 **Backend Developer Intern** • *ACCUHit* • `2023.09 - 2024.01`  
@@ -22,9 +25,6 @@ Developed and optimized backend services, focusing on performance and reliabilit
 
 **AppWorks School** • *Backend Campus Program* • `2023.06 - 2023.08`  
 Intensive full-stack development bootcamp with hands-on project experience
-
-**Core Developer** • *NCCU Google Developer Student Club* • `2022.10 - 2023.06`  
-Led technical initiatives and mentored fellow developers in the community
 
 ---
 
